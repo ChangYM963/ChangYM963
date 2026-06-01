@@ -105,9 +105,10 @@ Focus areas:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangYM963&show_icons=true)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChangYM963&theme=github)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangYM963&layout=compact)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChangYM963&theme=github)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChangYM963&theme=github)
 
 </div>
 
